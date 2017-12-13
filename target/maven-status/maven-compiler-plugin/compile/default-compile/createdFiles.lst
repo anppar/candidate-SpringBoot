@@ -1,7 +1,0 @@
-bootup/controller/BootController.class
-bootup/config/MongoConfig.class
-bootup/service/CandidateService.class
-bootup/dao/CandidateDao.class
-bootup/entity/Candidate.class
-bootup/dao/CandidateServiceImpl.class
-bootup/Application.class
